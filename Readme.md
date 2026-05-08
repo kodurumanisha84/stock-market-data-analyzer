@@ -186,7 +186,7 @@ Measures risk by calculating standard deviation of daily returns.
 ## Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/stock-market-data-analyzer.git
+git clone https://github.com/kodurumanisha84/stock-market-data-analyzer.git
 ```
 
 ---
@@ -207,14 +207,6 @@ cd stock-market-data-analyzer
 python -m venv venv
 venv\Scripts\activate
 ```
-
-### Mac/Linux
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
 ---
 
 ## Step 4 — Install Dependencies
@@ -310,16 +302,6 @@ Possible future upgrades:
 - Live market alerts
 - FastAPI backend integration
 - Multi-stock comparison
-
----
-
-# 👨‍💻 Interview Explanation
-
-## Explain Your Project
-
-> I developed an interactive Stock Market Data Analyzer using Python and Streamlit. The system fetches real stock market data from Yahoo Finance and performs financial analysis including moving averages, daily returns, volatility analysis, and trend visualization. The dashboard provides interactive charts and financial insights to help users understand stock performance and market behavior.
-
----
 
 # ⚠️ Disclaimer
 
