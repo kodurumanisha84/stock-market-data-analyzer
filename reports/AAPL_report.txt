@@ -1,0 +1,17 @@
+
+STOCK MARKET ANALYSIS REPORT
+=============================
+
+Ticker: AAPL
+
+Highest Price: 258.69
+Lowest Price: 51.37
+
+Average Daily Return:
+0.00118
+
+Volatility:
+0.01996
+
+Latest Closing Price:
+249.06
