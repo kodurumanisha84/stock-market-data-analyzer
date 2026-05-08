@@ -8,10 +8,10 @@ This project helps users analyze historical stock market data, visualize trends,
 
 # 🚀 Live Demo
 
-Add your Streamlit deployed link here after deployment:
+Streamlit deployed link here after deployment:
 
 ```bash
-https://your-streamlit-app-link.streamlit.app
+https://stock-market-data-analyzer-jwogzno7nweiljnvfbwrle.streamlit.app/
 ```
 
 ---
